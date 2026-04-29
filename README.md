@@ -61,12 +61,12 @@ To understand relationships between variables.
 ### Annual score vs spending score
 This graph shows how an annual income of a customer affects on the spending of a customer.
 
-![Gender](graph 1.png)
+![Annual income vs spending score](graph 1.png)
 
 ### Customer segmentation
 This graph shows the types of customer.
 
-![Gender](graph 2.png)
+![customer type](graph 2.png)
 
 ### Gender Distribution
 This graph shows distribution of male and female customers.
